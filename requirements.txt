@@ -1,0 +1,16 @@
+# UI
+PyQt6==6.7.1
+PyQt6-Qt6==6.7.1
+PyQt6-sip==13.8.0
+
+# Cryptography (пиним для стабильности API)
+cryptography==43.0.1
+argon2-cffi==23.1.0
+cffi==1.17.1
+
+# Testing & Quality
+pytest==8.3.4
+pytest-cov==6.0.0
+ruff==0.8.4
+pre-commit==4.0.1
+bandit==1.8.3
